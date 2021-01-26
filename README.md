@@ -19,5 +19,7 @@ Image:
 ### Lists
 - Item nose que poner aca  :D
 - Item A
+- lo hizo en linux y mac pero yo solo windows 
+- yo
 
 ### End
