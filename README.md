@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) 
 
-###Images
+### Images
 
 Image:
 
@@ -21,7 +21,7 @@ Image:
 
 - Item A
 
-###Sequence Diagram
+### Sequence Diagram
                     
 ```seq
 Andrew->China: Says Hello 
