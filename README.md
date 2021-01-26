@@ -14,20 +14,11 @@ Image:
 
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
-> Follow your heart.
+> to punish and enslave.
 
 ### Lists
 #### Unordered list (-)
 
 - Item A
-
-### Sequence Diagram
-                    
-```seq
-Andrew->China: Says Hello 
-Note right of China: China thinks\nabout it 
-China-->Andrew: How are you? 
-Andrew->>China: I am good thanks!
-```
 
 ### End
